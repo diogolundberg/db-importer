@@ -1,4 +1,3 @@
-""" docstring """
 import pymssql
 import _mssql
 from configparser import ConfigParser
